@@ -12,6 +12,7 @@ jupyter-book
 # etc...
 ipython==8.12.3
 ipywidgets==8.1.2
+shinywidgets
 matplotlib==3.9.0
 numpy==1.26.4
 pandas==2.2.2
